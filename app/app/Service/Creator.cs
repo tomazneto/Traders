@@ -20,10 +20,6 @@ namespace app.Service
             Add(GetTrade(new ExpiredFactory(value, clientSector, nextPaymentDate, DateTime.Now)));
             Add(GetTrade(new HighRiskFactory(value, clientSector, nextPaymentDate)));
             Add(GetTrade(new MediumRiskFactory(value, clientSector, nextPaymentDate)));
-
-            if (!Trades.Any())
-                Add(GetTrade(new NoneRiskFactory(value, clientSector, nextPaymentDate)));
-
             return Trades;
         }
 
