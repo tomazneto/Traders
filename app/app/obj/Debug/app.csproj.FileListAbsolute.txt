@@ -1,0 +1,8 @@
+D:\Projetos\desafioTrade\app\app\bin\Debug\app.exe.config
+D:\Projetos\desafioTrade\app\app\bin\Debug\app.exe
+D:\Projetos\desafioTrade\app\app\bin\Debug\app.pdb
+D:\Projetos\desafioTrade\app\app\obj\Debug\app.csproj.AssemblyReference.cache
+D:\Projetos\desafioTrade\app\app\obj\Debug\app.csproj.SuggestedBindingRedirects.cache
+D:\Projetos\desafioTrade\app\app\obj\Debug\app.csproj.CoreCompileInputs.cache
+D:\Projetos\desafioTrade\app\app\obj\Debug\app.exe
+D:\Projetos\desafioTrade\app\app\obj\Debug\app.pdb
